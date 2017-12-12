@@ -1,0 +1,12 @@
+dubbo :  
+  protocol:  
+    prot : -1  
+    name  : dubbo  
+  application:  
+    name : hello-world-consume  
+  registry:  
+    address : zookeeper://192.168.1.175:2182  
+  packageName : org.bana.springboot.plugin.dubbo.consume.ref
+    
+server :  
+  port : 8085  
