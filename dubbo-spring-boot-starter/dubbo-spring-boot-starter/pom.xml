@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.bana</groupId>
   <artifactId>dubbo-spring-boot-starter</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>dubbo-spring-boot-starter</name>
   <description>dubbo-spring-boot-start包</description>
   

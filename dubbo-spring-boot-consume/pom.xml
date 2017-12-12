@@ -14,7 +14,7 @@
     	<dependency>
             <groupId>org.bana</groupId>  
             <artifactId>dubbo-spring-boot-starter</artifactId>  
-            <version>0.0.1-SNAPSHOT</version>  
+            <version>1.0.0</version>  
         </dependency> 
         <dependency>
             <groupId>org.bana</groupId>  
